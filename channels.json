@@ -70,5 +70,30 @@
         "creator": "U05DHDPL4FK",
         "last_set": 1687165686
     }
+},
+{
+    "id": "C05ABCDE01",
+    "name": "gptgenerated",
+    "created": 1687166738,
+    "creator": "U02ABCDE02",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U02ABCDE02",
+        "U03ABCDE03",
+        "U04ABCDE04",
+        "U01ABCDE01"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "This channel is for... well, everything else. It’s a place for team jokes, spur-of-the-moment ideas, and funny GIFs. Go wild!",
+        "creator": "U02ABCDE02",
+        "last_set": 1687166738
+    }
 }
+
 ]
