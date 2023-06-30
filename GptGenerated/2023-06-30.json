@@ -1176,5 +1176,385 @@
             "is_restricted": false,
             "is_ultra_restricted": false
         }
+    },
+    {
+        "client_msg_id": "32b9501d-19cb-45be-bad7-86634b0592e5",
+        "type": "message",
+        "text": "I think BERT would be the ideal choice for our semantic search application. It has proven performance and is widely used in the industry.",
+        "user": "U01ABCDE01",
+        "ts": "1687177731.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think BERT would be the ideal choice for our semantic search application. It has proven performance and is widely used in the industry."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "John",
+            "real_name": "John Smith",
+            "display_name": "John",
+            "team": "T12345678",
+            "name": "johnsmith",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "33b9501d-19cb-45be-bad7-86634b0592e6",
+        "type": "message",
+        "text": "I agree with John. BERT has a strong track record and has been extensively tested in various applications.",
+        "user": "U02ABCDE02",
+        "ts": "1687177732.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree with John. BERT has a strong track record and has been extensively tested in various applications."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice Johnson",
+            "display_name": "Alice",
+            "team": "T12345678",
+            "name": "alicejohnson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "34b9501d-19cb-45be-bad7-86634b0592e7",
+        "type": "message",
+        "text": "I understand your point, but GPT3 may not be the most suitable model for semantic search. BERT's fine-tuning capabilities make it a better fit for our specific task.",
+        "user": "U03ABCDE03",
+        "ts": "1687177733.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I understand your point, but GPT3 may not be the most suitable model for semantic search. BERT's fine-tuning capabilities make it a better fit for our specific task."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael Johnson",
+            "display_name": "Michael",
+            "team": "T12345678",
+            "name": "michaeljohnson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "35b9501d-19cb-45be-bad7-86634b0592e8",
+        "type": "message",
+        "text": "I see your point now. BERT's fine-tuning capabilities can help us achieve better accuracy and efficiency in our semantic search application.",
+        "user": "U04ABCDE04",
+        "ts": "1687177734.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I see your point now. BERT's fine-tuning capabilities can help us achieve better accuracy and efficiency in our semantic search application."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Davis",
+            "display_name": "Sarah",
+            "team": "T12345678",
+            "name": "sarahdavis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "36b9501d-19cb-45be-bad7-86634b0592e9",
+        "type": "message",
+        "text": "GPT3 is a powerful model, no doubt, but its size and computational requirements make it less practical for our semantic search application.",
+        "user": "U01ABCDE01",
+        "ts": "1687177735.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "GPT3 is a powerful model, no doubt, but its size and computational requirements make it less practical for our semantic search application."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "John",
+            "real_name": "John Smith",
+            "display_name": "John",
+            "team": "T12345678",
+            "name": "johnsmith",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "37b9501d-19cb-45be-bad7-86634b0592ea",
+        "type": "message",
+        "text": "Absolutely. BERT's smaller size allows for faster training and deployment, which is crucial for our application's performance.",
+        "user": "U02ABCDE02",
+        "ts": "1687177736.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Absolutely. BERT's smaller size allows for faster training and deployment, which is crucial for our application's performance."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice Johnson",
+            "display_name": "Alice",
+            "team": "T12345678",
+            "name": "alicejohnson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "38b9501d-19cb-45be-bad7-86634b0592eb",
+        "type": "message",
+        "text": "You're right. BERT's fine-tuning process enables us to adapt the model specifically to our semantic search task and improve its performance.",
+        "user": "U03ABCDE03",
+        "ts": "1687177737.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You're right. BERT's fine-tuning process enables us to adapt the model specifically to our semantic search task and improve its performance."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael Johnson",
+            "display_name": "Michael",
+            "team": "T12345678",
+            "name": "michaeljohnson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "39b9501d-19cb-45be-bad7-86634b0592ec",
+        "type": "message",
+        "text": "BERT's pre-training on large-scale data also helps it capture better contextual understanding, which is crucial for semantic search.",
+        "user": "U04ABCDE04",
+        "ts": "1687177738.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "BERT's pre-training on large-scale data also helps it capture better contextual understanding, which is crucial for semantic search."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Davis",
+            "display_name": "Sarah",
+            "team": "T12345678",
+            "name": "sarahdavis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "40b9501d-19cb-45be-bad7-86634b0592ed",
+        "type": "message",
+        "text": "GPT3's generative nature may introduce unnecessary complexity in our semantic search application. BERT's focus on understanding context is more aligned with our goals.",
+        "user": "U01ABCDE01",
+        "ts": "1687177739.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "GPT3's generative nature may introduce unnecessary complexity in our semantic search application. BERT's focus on understanding context is more aligned with our goals."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "John",
+            "real_name": "John Smith",
+            "display_name": "John",
+            "team": "T12345678",
+            "name": "johnsmith",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "41b9501d-19cb-45be-bad7-86634b0592ee",
+        "type": "message",
+        "text": "I agree with you all now. BERT seems to be the better choice for our semantic search application, considering its practicality and performance.",
+        "user": "U03ABCDE03",
+        "ts": "1687177740.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree with you all now. BERT seems to be the better choice for our semantic search application, considering its practicality and performance."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael Johnson",
+            "display_name": "Michael",
+            "team": "T12345678",
+            "name": "michaeljohnson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
     }
 ]
